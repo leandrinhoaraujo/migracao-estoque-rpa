@@ -1,6 +1,17 @@
 # Pipeline de Migração e Atualização de Preços (PDF -> ERP Desktop)
 
+<div align="center">
+
+[![Desenvolvido com Antigravity](https://img.shields.io/badge/Developed%20with-Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+</div>
+
 Solução completa de **Engenharia de Dados (ETL) e Automação de Processos (RPA)** desenvolvida para extrair dados tabulares de relatórios/catálogos em PDF, conciliar produtos com sistemas legados via algoritmos de correspondência de código (Part-Number & Fuzzy Matching) e atualizar preços de Custo e Venda diretamente na interface gráfica de sistemas desktop (grades interativas estilo *DevExpress*).
+
+> [!NOTE]
+> **Desenvolvido com Google Antigravity:** A arquitetura deste projeto — desde a análise e extração automatizada de tabelas vetoriais em PDF, os algoritmos de conciliação de catálogos e a automação resiliente de interface desktop com integração à Win32 API — foi projetada e implementada em colaboração com o **Google Antigravity**.
 
 ---
 
